@@ -15,10 +15,12 @@
             <li><a href="">Студія</a></li>
             <li><a href="">Портфоліо</a></li>
             <li><a href="">Контакти</a></li>
-            <li><a href="mail:to info@devstudio.com">info@devstudio.com</a></li>
-            <li><a href="tel:+380961111111">+38 096 111 11 11</a></li>
         </ul>
     </nav>
+    
+   <a href="mail:to info@devstudio.com">info@devstudio.com</a>
+   <a href="tel:+380961111111">+38 096 111 11 11</a>
+
 </header>
 <!-- Main -->
 <main>
@@ -38,8 +40,9 @@
     <img src="/img/box2.jpg" alt="img">
     <img src="/img/box3.jpg" alt="img">
 </section>
+
+
 </main>
-
-
+    
 </body>
 </html>
