@@ -28,10 +28,10 @@
 </header>
 <!-- Main -->
 <main>
-    <section>
+   <section>
         <h1>Ефективні рішення для вашого бізнесу</h1>
         <button type="button"><a href="">Замовити послугу</a></button>
-    </section>
+   </section>
 <!-- Main Content -->
     <section>
     <p><h4>УВАГА ДО ДЕТАЛЕЙ</h4>Ідейні міркування, і навіть початок повсякденної роботи з формування позиції.</p>
@@ -39,15 +39,17 @@
     <p><h4>ПЛАНУВАННЯ</h4>Так само консультація з широким активом значною мірою зумовлює.</p>
     <p><h4>СУЧАСНІ ТЕХНОЛОГІЇ</h4>Значимість цих проблем настільки очевидна, що реалізація планових завдань.</p>
     </section>
-<section>
+    
+   <section>
     <h2>Чим ми займаємося</h2>
-
+    
     <img src="img/box 1.jpg" alt="no-img">
     <img src="img/box 2.jpg" alt="no-img">
     <img src="img/box 3.jpg" alt="no-img">
-</section>
+    
+ </section>
 
-<section>
+ <section>
 
     <h2>Наша команда</h2>
 
