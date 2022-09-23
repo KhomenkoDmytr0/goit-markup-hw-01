@@ -9,7 +9,7 @@
 <body>
 <!-- Navigation -->
 <header>
-    <img src="img/WebStudio.png" alt="webstudio">
+    <a href="/">WebStudio</a>
     <nav>
         <ul>
             <li><a href="">Студія</a></li>
@@ -19,7 +19,7 @@
     </nav>
     
    <div>
-    <a href="mail:to info@devstudio.com">info@devstudio.com</a>
+    <a href="mailto:info@devstudio.com">info@devstudio.com</a>
 </div>
    <div>
     <a href="tel:+380961111111">+38 096 111 11 11</a>
@@ -28,51 +28,54 @@
 </header>
 <!-- Main -->
 <main>
-   <section>
+    <section>
         <h1>Ефективні рішення для вашого бізнесу</h1>
-        <button type="button"><a href="">Замовити послугу</a></button>
-   </section>
+        <button type="button">Замовити послугу</button>
+    </section>
 <!-- Main Content -->
     <section>
-    <p><h4>УВАГА ДО ДЕТАЛЕЙ</h4>Ідейні міркування, і навіть початок повсякденної роботи з формування позиції.</p>
-    <p><h4>ПУНКТУАЛЬНІСТЬ</h4>Завдання організації, особливо рамки і місце навчання кадрів тягне у себе.</p>
-    <p><h4>ПЛАНУВАННЯ</h4>Так само консультація з широким активом значною мірою зумовлює.</p>
-    <p><h4>СУЧАСНІ ТЕХНОЛОГІЇ</h4>Значимість цих проблем настільки очевидна, що реалізація планових завдань.</p>
-    </section>
-    
-   <section>
-    <h2>Чим ми займаємося</h2>
-    
-    <img src="img/box 1.jpg" alt="no-img">
-    <img src="img/box 2.jpg" alt="no-img">
-    <img src="img/box 3.jpg" alt="no-img">
-    
- </section>
 
- <section>
+    <h4>УВАГА ДО ДЕТАЛЕЙ</h4>
+    <p>Ідейні міркування, і навіть початок повсякденної роботи з формування позиції.</p>
+    <h4>ПУНКТУАЛЬНІСТЬ</h4>
+    <p>Завдання організації, особливо рамки і місце навчання кадрів тягне у себе.</p>
+    <h4>СУЧАСНІ ТЕХНОЛОГІЇ</h4>
+    <p>Значимість цих проблем настільки очевидна, що реалізація планових завдань.</p>
+
+    </section>
+
+<section>
+    <h2>Чим ми займаємося</h2>
+
+    <img src="img/boxone.jpg" alt="pictureone" width="370" height="294">
+    <img src="img/boxtwo.jpg" alt="picturetwo" width="370" height="294" >
+    <img src="img/boxthree.jpg" alt="picturethree" width="370" height="294">
+</section>
+
+<section>
 
     <h2>Наша команда</h2>
 
     <div>
-        <img src="img/ihor.jpg" alt="ihor-demyanenko">
+        <img src="img/ihor.jpg" alt="ihor-demyanenko" width="270" height="260">
         <p>Ігор Дем'яненко</p>
         <p>Product Designer</p>
     </div>
 
     <div>
-        <img src="img/olha.jpg" alt="olha-repina">
+        <img src="img/olha.jpg" alt="olha-repina" width="270" height="260">
         <p>Ольга Рєпіна</p>
         <p>Frontend Developer</p>
     </div>
 
     <div>
-        <img src="img/mykhola.jpg" alt="mykhola-tarasov">
+        <img src="img/mykhola.jpg" alt="mykhola-tarasov" width="270" height="260">
         <p>Микола Тарасов</p>
         <p>Marketing</p>
     </div>
 
     <div>
-        <img src="img/mykhailo.jpg" alt="mykhailo-ermakov">
+        <img src="img/mykhailo.jpg" alt="mykhailo-ermakov" width="270" height="260">
         <p>Михайло Єрмаков</p>
         <p>UI Designer</p>
     </div>
@@ -83,12 +86,12 @@
 
 <footer>
     <div>
-        <img src="img/WebStudio.png" alt="webstudio">
+        <a href="/">WebStudio</a>
 
         <address>м. Київ, пр-т Лесі Українки, 26</address>
 
         <div>
-            <a href="mail:to info@devstudio.com">info@devstudio.com</a>
+            <a href="mailto:info@devstudio.com">info@devstudio.com</a>
         </div>
 
         <div>
