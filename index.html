@@ -35,11 +35,11 @@
 <!-- Main Content -->
     <section>
 
-    <h4>УВАГА ДО ДЕТАЛЕЙ</h4>
+    <h3>УВАГА ДО ДЕТАЛЕЙ</h3>
     <p>Ідейні міркування, і навіть початок повсякденної роботи з формування позиції.</p>
-    <h4>ПУНКТУАЛЬНІСТЬ</h4>
+    <h3>ПУНКТУАЛЬНІСТЬ</h3>
     <p>Завдання організації, особливо рамки і місце навчання кадрів тягне у себе.</p>
-    <h4>СУЧАСНІ ТЕХНОЛОГІЇ</h4>
+    <h3>СУЧАСНІ ТЕХНОЛОГІЇ</h3>
     <p>Значимість цих проблем настільки очевидна, що реалізація планових завдань.</p>
 
     </section>
@@ -58,25 +58,25 @@
 
     <div>
         <img src="img/ihor.jpg" alt="ihor-demyanenko" width="270" height="260">
-        <p>Ігор Дем'яненко</p>
+        <h4>Ігор Дем'яненко</h4>
         <p>Product Designer</p>
     </div>
 
     <div>
         <img src="img/olha.jpg" alt="olha-repina" width="270" height="260">
-        <p>Ольга Рєпіна</p>
+        <h4>Ольга Рєпіна</h4>
         <p>Frontend Developer</p>
     </div>
 
     <div>
         <img src="img/mykhola.jpg" alt="mykhola-tarasov" width="270" height="260">
-        <p>Микола Тарасов</p>
+        <h4>Микола Тарасов</h4>
         <p>Marketing</p>
     </div>
 
     <div>
         <img src="img/mykhailo.jpg" alt="mykhailo-ermakov" width="270" height="260">
-        <p>Михайло Єрмаков</p>
+        <h4>Михайло Єрмаков</h4>
         <p>UI Designer</p>
     </div>
 
