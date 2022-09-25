@@ -1,5 +1,3 @@
-# goit-markup-hw-01
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,7 +11,9 @@
 <!-- Header -->
 
 <header>
+
     <a href="/">WebStudio</a>
+
     <nav>
         <ul>
             <li><a href="">Студія</a></li>
@@ -30,6 +30,7 @@
 <!-- Main -->
 
 <main>
+    
     <section>
         <h1>Ефективні рішення для вашого бізнесу</h1>
         <button type="button">Замовити послугу</button>
@@ -37,23 +38,26 @@
 
     <section>
 <ul>
-    <li><h3>УВАГА ДО ДЕТАЛЕЙ</h3></li>
-    <li>Ідейні міркування, і навіть початок повсякденної роботи з формування позиції.</li>
-</ul>
+    <li>
+        <h3>УВАГА ДО ДЕТАЛЕЙ</h3>
+        <p>Ідейні міркування, і навіть початок повсякденної роботи з формування позиції.</p>
+    </li>
 
-<ul>
-    <li><h3>ПУНКТУАЛЬНІСТЬ</h3></li>
-    <li>Завдання організації, особливо рамки і місце навчання кадрів тягне у себе.</li>
-</ul>
+    <li>
+        <h3>ПУНКТУАЛЬНІСТЬ</h3>
+        <p>Завдання організації, особливо рамки і місце навчання кадрів тягне у себе.</p>
+    </li>
 
-<ul>
-    <li><h3>ПЛАНУВАННЯ</h3></li>
-    <li>Так само консультація з широким активом значною мірою зумовлює.</li>
-</ul>
+    <li>
+        <h3>ПЛАНУВАННЯ</h3>
+        <p>Так само консультація з широким активом значною мірою зумовлює.</p>
+    </li>
 
-<ul>
-    <li><h3>СУЧАСНІ ТЕХНОЛОГІЇ</h3></li>
-    <li>Значимість цих проблем настільки очевидна, що реалізація планових завдань.</li>
+    <li>
+        <h3>СУЧАСНІ ТЕХНОЛОГІЇ</h3>
+        <p>Значимість цих проблем настільки очевидна, що реалізація планових завдань.</p>
+    </li>
+
 </ul>
 
 </section>
@@ -61,9 +65,17 @@
 <section>
     <h2>Чим ми займаємося</h2>
 <ul>
-    <li><img src="img/boxone.jpg" alt="фотоодин" width="370" height="294"></li>
-    <li><img src="img/boxtwo.jpg" alt="фотодва" width="370" height="294"></li>
-    <li><img src="img/boxthree.jpg" alt="фототри" width="370" height="294"></li>
+    <li>
+        <img src="img/boxone.jpg" alt="фотоодин" width="370" height="294">
+    </li>
+
+    <li>
+        <img src="img/boxtwo.jpg" alt="фотодва" width="370" height="294">
+    </li>
+    
+    <li>
+        <img src="img/boxthree.jpg" alt="фототри" width="370" height="294">
+    </li>
 </ul>
   
 </section>
@@ -73,27 +85,29 @@
     <h2>Наша команда</h2>
 
    <ul>
-        <li><img src="img/ihor.jpg" alt="Ігор Дем'яненко" width="270" height="260"></li>
-        <li><h4>Ігор Дем'яненко</h4></li>
-        <li>Product Designer</li>
-    </ul>
+        <li>
+            <img src="img/ihor.jpg" alt="Ігор Дем'яненко" width="270" height="260">
+            <h3>Ігор Дем'яненко</h3>
+            <p>Product Designer</p>
+        </li>
 
-    <ul>
-        <li><img src="img/olha.jpg" alt="Ольга Рєпіна" width="270" height="260"></li>
-        <li><h4>Ольга Рєпіна</h4></li>
-        <li>Frontend Developer</li>
-    </ul>
+        <li>
+            <img src="img/olha.jpg" alt="Ольга Рєпіна" width="270" height="260"></li>
+            <h3>Ольга Рєпіна</h3>
+            <p>Frontend Developer</p>
+        </li>
 
-    <ul>
-        <li><img src="img/mykhola.jpg" alt="Микола Тарасов" width="270" height="260"></li>
-        <li><h4>Микола Тарасов</h4></li>
-        <li>Marketing</li>
-   </ul>
+        <li>
+            <img src="img/mykhola.jpg" alt="Микола Тарасов" width="270" height="260">
+            <h3>Микола Тарасов</h3>
+            <p>Marketing</p>
+        </li>
 
-   <ul>
-        <li><img src="img/mykhailo.jpg" alt="Михайло Єрмаков" width="270" height="260"></li>
-        <li><h4>Михайло Єрмаков</h4></li>
-        <li>UI Designer</li>
+        <li>
+            <img src="img/mykhailo.jpg" alt="Михайло Єрмаков" width="270" height="260">
+            <h3>Михайло Єрмаков</h3>
+            <p>UI Designer</p>
+        </li>
    </ul>
 
 </section>
