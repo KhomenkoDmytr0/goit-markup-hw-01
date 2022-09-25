@@ -1,3 +1,5 @@
+# goit-markup-hw-01
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -89,7 +91,7 @@
    </ul>
 
    <ul>
-        <li><img src="img/mykhailo.jpg" alt="mykhailo-ermakov" width="270" height="260"></li>
+        <li><img src="img/mykhailo.jpg" alt="Михайло Єрмаков" width="270" height="260"></li>
         <li><h4>Михайло Єрмаков</h4></li>
         <li>UI Designer</li>
    </ul>
