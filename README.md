@@ -7,7 +7,9 @@
     <title>WebStudio</title>
 </head>
 <body>
-<!-- Navigation -->
+
+<!-- Header -->
+
 <header>
     <a href="/">WebStudio</a>
     <nav>
@@ -18,71 +20,85 @@
         </ul>
     </nav>
     
-   <div>
     <a href="mailto:info@devstudio.com">info@devstudio.com</a>
-</div>
-   <div>
     <a href="tel:+380961111111">+38 096 111 11 11</a>
-</div>
 
 </header>
+
 <!-- Main -->
+
 <main>
     <section>
         <h1>Ефективні рішення для вашого бізнесу</h1>
         <button type="button">Замовити послугу</button>
     </section>
-<!-- Main Content -->
+
     <section>
+<ul>
+    <li><h3>УВАГА ДО ДЕТАЛЕЙ</h3></li>
+    <li>Ідейні міркування, і навіть початок повсякденної роботи з формування позиції.</li>
+</ul>
 
-    <h3>УВАГА ДО ДЕТАЛЕЙ</h3>
-    <p>Ідейні міркування, і навіть початок повсякденної роботи з формування позиції.</p>
-    <h3>ПУНКТУАЛЬНІСТЬ</h3>
-    <p>Завдання організації, особливо рамки і місце навчання кадрів тягне у себе.</p>
-    <h3>СУЧАСНІ ТЕХНОЛОГІЇ</h3>
-    <p>Значимість цих проблем настільки очевидна, що реалізація планових завдань.</p>
+<ul>
+    <li><h3>ПУНКТУАЛЬНІСТЬ</h3></li>
+    <li>Завдання організації, особливо рамки і місце навчання кадрів тягне у себе.</li>
+</ul>
 
-    </section>
+<ul>
+    <li><h3>ПЛАНУВАННЯ</h3></li>
+    <li>Так само консультація з широким активом значною мірою зумовлює.</li>
+</ul>
+
+<ul>
+    <li><h3>СУЧАСНІ ТЕХНОЛОГІЇ</h3></li>
+    <li>Значимість цих проблем настільки очевидна, що реалізація планових завдань.</li>
+</ul>
+
+</section>
 
 <section>
     <h2>Чим ми займаємося</h2>
-
-    <img src="img/boxone.jpg" alt="pictureone" width="370" height="294">
-    <img src="img/boxtwo.jpg" alt="picturetwo" width="370" height="294" >
-    <img src="img/boxthree.jpg" alt="picturethree" width="370" height="294">
+<ul>
+    <li><img src="img/boxone.jpg" alt="фотоодин" width="370" height="294"></li>
+    <li><img src="img/boxtwo.jpg" alt="фотодва" width="370" height="294"></li>
+    <li><img src="img/boxthree.jpg" alt="фототри" width="370" height="294"></li>
+</ul>
+  
 </section>
 
 <section>
 
     <h2>Наша команда</h2>
 
-    <div>
-        <img src="img/ihor.jpg" alt="ihor-demyanenko" width="270" height="260">
-        <h4>Ігор Дем'яненко</h4>
-        <p>Product Designer</p>
-    </div>
+   <ul>
+        <li><img src="img/ihor.jpg" alt="Ігор Дем'яненко" width="270" height="260"></li>
+        <li><h4>Ігор Дем'яненко</h4></li>
+        <li>Product Designer</li>
+    </ul>
 
-    <div>
-        <img src="img/olha.jpg" alt="olha-repina" width="270" height="260">
-        <h4>Ольга Рєпіна</h4>
-        <p>Frontend Developer</p>
-    </div>
+    <ul>
+        <li><img src="img/olha.jpg" alt="Ольга Рєпіна" width="270" height="260"></li>
+        <li><h4>Ольга Рєпіна</h4></li>
+        <li>Frontend Developer</li>
+    </ul>
 
-    <div>
-        <img src="img/mykhola.jpg" alt="mykhola-tarasov" width="270" height="260">
-        <h4>Микола Тарасов</h4>
-        <p>Marketing</p>
-    </div>
+    <ul>
+        <li><img src="img/mykhola.jpg" alt="Микола Тарасов" width="270" height="260"></li>
+        <li><h4>Микола Тарасов</h4></li>
+        <li>Marketing</li>
+   </ul>
 
-    <div>
-        <img src="img/mykhailo.jpg" alt="mykhailo-ermakov" width="270" height="260">
-        <h4>Михайло Єрмаков</h4>
-        <p>UI Designer</p>
-    </div>
+   <ul>
+        <li><img src="img/mykhailo.jpg" alt="mykhailo-ermakov" width="270" height="260"></li>
+        <li><h4>Михайло Єрмаков</h4></li>
+        <li>UI Designer</li>
+   </ul>
 
 </section>
 
 </main>
+
+<!--Footer-->
 
 <footer>
     <div>
@@ -90,15 +106,10 @@
 
         <address>м. Київ, пр-т Лесі Українки, 26</address>
 
-        <div>
-            <a href="mailto:info@devstudio.com">info@devstudio.com</a>
-        </div>
+        <a href="mailto:info@devstudio.com">info@devstudio.com</a>
 
-        <div>
-            <a href="tel:+380961111111">+38 096 111 11 11</a>
-        </div>
+        <a href="tel:+380961111111">+38 096 111 11 11</a>
     </div>
-
 </footer>
     
 </body>
